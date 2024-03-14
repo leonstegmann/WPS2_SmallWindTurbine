@@ -15,7 +15,8 @@ N = 9 % 1:9 Gear box ratio
 D_g = 0 ; % Damping (frcition constant)
 K_g = 0 ; % Stiffness (torsional spring constant)
 J_g = 0.68 ; % Inertia
-pole_pairs = 4;% Number of pole-pairs
+pole_pairs = 2;% Number of pole-pairs
+nominal_Nr =  1430 % [rpm] nominal speed rotor
 
 % equivalent
 K_eq = 101787 ; % N/m
