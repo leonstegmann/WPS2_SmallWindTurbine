@@ -2,8 +2,8 @@
 %                       Init Parameters
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Aero model
-load('WindprofilHOST.mat')
-load('v3223.mat')
+%load('WindprofilHOST.mat')
+%load('v3223.mat')
 load('v_5h_1223.mat')
 load('v_5h_30s_delay.mat')
 
