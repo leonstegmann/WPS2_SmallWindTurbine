@@ -1,3 +1,12 @@
 slprj/
 *.slxc
 *.autosave
+*.eps
+*.asv
+*.mat
+*.fig
+plotting_data/Results/
+plotting_data/Simulation_runs/
+AeroModel/
+GeneratorModel/
+MechanicalModel/
